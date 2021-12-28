@@ -1,0 +1,7 @@
+17:50:19,110 root INFO Admin entered
+17:51:12,608 root INFO User entered
+17:52:34,308 root INFO User entered
+17:52:36,523 root INFO Running command pwd
+17:52:37,179 root INFO Running command ls
+17:52:41,392 root WARNING !!!!!!!! Get the admin !!!!!!!!
+17:52:41,393 root INFO Running command sudo me
